@@ -1,6 +1,6 @@
 # hg-2-bravo
 
-Creador del repositorio: Bettina Rios
+Creador del repositorio: samuel Martinez
 
 | Nombre  | Alias | Link |
 | ------------- | ------------- | ------------- |
